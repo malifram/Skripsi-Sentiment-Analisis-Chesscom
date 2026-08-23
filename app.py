@@ -103,7 +103,7 @@ with st.expander("ℹ️ Tentang aplikasi ini"):
         Aplikasi ini menguji model **SVM (Linear SVC)** yang dilatih menggunakan data ulasan
         aplikasi Chess.com dari Google Play Store. Label sentimen (`positive`, `negative`, `neutral`)
         dihasilkan melalui pendekatan **lexicon-based sentiment analysis** yang telah dikurasi,
-        kemudian dipakai untuk melatih beberapa model machine learning — dan SVM terpilih sebagai
+        kemudian dipakai untuk melatih beberapa model machine learning dan SVM terpilih sebagai
         model dengan performa terbaik.
         """
     )
